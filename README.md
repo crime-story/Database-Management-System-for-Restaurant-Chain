@@ -8,7 +8,7 @@ Contents:
 - [x] Full documentation [(here)](../main/406_Popescu_Paullo_Robertto_Karloss_PREZENTARE.pdf)
 
 ## Entity Relationship Diagram:
-![alt text](../main/Photos/ERD.png)
+![alt text](../main/Diagrama%20ER.png)
 
 ## Conceptual Diagram:
 ![alt text](../main/Diagrama.png)
